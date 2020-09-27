@@ -98,7 +98,7 @@ body {
 
 	font-size: 32px;
 }
-/* .food {
+ .food {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
@@ -107,8 +107,8 @@ body {
 	height: 320px;
 	transition: 0.4s;
 	overflow: hidden;
-	margin: 20px 0;
-} */
+	margin: 10px 0;
+} 
 .food .description {
 	display: flex;
 	align-items: center;
@@ -122,7 +122,6 @@ body {
 }
 .food:hover .description {
 	letter-spacing: 0.1rem;
-
 	transform: translateY(-100%);
 }
 
