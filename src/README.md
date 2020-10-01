@@ -1,0 +1,1 @@
+This project creates a restaurant page that displays the menu and contacts of the restaurant. 
